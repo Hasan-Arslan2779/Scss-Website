@@ -1,6 +1,6 @@
 <h1>Scss-Website-Project</h1>
 
-  <p>This is a sample project for a shoe website design created using HTML5 and CSS3. The design is fully responsive, meaning it can adapt to different screen sizes for optimal viewing experience, including desktops, tablets, and smartphones.</p>
+  <p>This is a sample project for a shoe website design created using HTML5 and SCSS. The design is fully responsive, meaning it can adapt to different screen sizes for optimal viewing experience, including desktops, tablets, and smartphones.</p>
 
   <h2>Technologies Used</h2>
 
@@ -19,6 +19,6 @@
   </ul>
 
   <h2>GİF</h2>
- <img src="" alt="gif">
+ <img src="https://github.com/Hasan-Arslan2779/Scss-Website/blob/master/scss.gif" alt="gif">
 
   <p>This project was created by Hasan, based on a design by Hasan Arslan.</p>
